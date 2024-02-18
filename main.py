@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print('last')
     print('as')
     print('as')
+    print('sdaasd')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
