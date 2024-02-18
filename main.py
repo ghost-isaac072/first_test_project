@@ -1,6 +1,6 @@
 # addAuthorBranch
 def my_superfunction():
-    print('master')
+    print('newBranch')
 
 
 def main():
