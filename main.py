@@ -13,5 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print('last')
+    print('as')
+    print('as')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
