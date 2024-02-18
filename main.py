@@ -16,5 +16,6 @@ if __name__ == '__main__':
     print('as')
     print('as')
     print('sdaasd')
+    print('aasa')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
